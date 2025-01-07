@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uzoma!;" />
 </h1>
 
-📊 Data Enthusiast | 💻 Software Engineer | 🛡️ Quality Assurance Engineer
+📊 Data Scientist | 💻 Software Engineer | 🛡️ Machine Learning Operations Engineering
 
 🔍 Exploring the world of data to uncover hidden insights.
 💡 Crafting innovative software solutions that empower businesses.
