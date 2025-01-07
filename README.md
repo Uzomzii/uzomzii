@@ -9,16 +9,16 @@
 🔧 Ensuring top-notch quality and reliability in every project.
 
 🌟 What I Bring to the Table:
-- 📈 Data Analysis: Transforming raw data into actionable insights to drive informed decisions.
+- 📈 Data Scientist: Transforming raw data into actionable insights to drive informed decisions.
 - 💻 Software Engineering: Developing robust and scalable applications using cutting-edge technologies.
-- 🛠️ Quality Assurance: Implementing rigorous testing processes to deliver bug-free software.
+- 🛠️ Machine Learning Operations Engineer: Implementing rigorous testing processes to deliver bug-free software.
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,aws,azure,firebase,mongodb,nextjs,visualstudio" /><br>
-    <img src="https://skillicons.dev/icons?i=react,r,bootstrap,postgresql,html,css,vscode,django,tailwind,git,windows,cs" />
+    <img src="https://skillicons.dev/icons?i=postman,github,python,javascript,aws,azure,mongodb,fastapi,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=r,bootstrap,postgresql,html,css,vscode,django,anaconda,git,windows,cs" />
 </div>
 
 <br/>
