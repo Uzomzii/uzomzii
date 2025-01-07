@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uzoma!;" />
 </h1>
 
-📊 Data Scientist | 💻 Software Engineer | 🛡️ Machine Learning Operations Engineering
+📊 Data Scientist | 💻 Software Engineer | 🛠️ Machine Learning Operations Engineering
 
 🔍 Exploring the world of data to uncover hidden insights.
 💡 Crafting innovative software solutions that empower businesses.
@@ -11,7 +11,7 @@
 🌟 What I Bring to the Table:
 - 📈 Data Scientist: Transforming raw data into actionable insights to drive informed decisions.
 - 💻 Software Engineering: Developing robust and scalable applications using cutting-edge technologies.
-- 🛠️ Machine Learning Operations Engineer: Implementing rigorous testing processes to deliver bug-free software.
+- 🛠️ MLOps Engineer: Streamlining machine learning workflows for scalable and reliable model deployment and operations.
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
